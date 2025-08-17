@@ -57,6 +57,10 @@ The installer provides:
 3. Applies a custom icon for easy identification
 4. Installs the default extensions
 
+## Platform Notes
+
+For macOS ASAR integrity details and ARM build notes, see `ARM_build_notes.md`.
+
 ## Privacy
 
 The installer only modifies your local Claude Desktop installation. No data is collected or transmitted by the installer itself. Individual extensions may have their own privacy policies.
